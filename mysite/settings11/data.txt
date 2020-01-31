@@ -1,0 +1,4 @@
+posrgres password: DRAGONBALL
+superuser-> name : VRS
+	    PASSWORD: TERRI MAA KI
+
